@@ -1,0 +1,255 @@
+{
+    "breadcrumb": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Breadcrumb Image",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1920x200"
+                }
+            }
+        }
+    },
+    "banner": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banner Section",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1920x1500"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "category": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Category Section",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "featured_product": {
+        "builder": true,
+        "name": "Featured Products",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "best_sell_product": {
+        "builder": true,
+        "name": "Best Sell Products",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "weekly_best_sell": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Weekly Best Sell",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "latest_product": {
+        "builder": true,
+        "name": "Latest Products",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "new_release": {
+        "builder": true,
+        "no_selection": true,
+        "name": "New Releases Products",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "best_author": {
+        "builder": true,
+        "name": "Best Author Products",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "featured_author": {
+        "builder": true,
+        "name": "Featured Author Section",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "login": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Login Page",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1270x970"
+                }
+            },
+            "heading": "text",
+            "subheading": "text",
+            "title": "text"
+        }
+    },
+    "register": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Register Page",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "1270x970"
+                }
+            },
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "70x70"
+                }
+            },
+            "name": "text",
+            "designation": "text",
+            "quote": "textarea",
+            "modal": false
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images": {
+                "image": {
+                    "size": "860x440",
+                    "thumb": "430x220"
+                }
+            },
+            "title": "text",
+            "description": "textarea-nic",
+            "modal": false
+        }
+    },
+    "policy_pages": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-nic",
+            "modal": false
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "FAQ Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea-nic",
+            "modal": false
+        }
+    },
+    "subscribe": {
+        "builder": true,
+        "name": "Subscribe Section",
+        "content": {
+            "heading": "text"
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "heading": "text",
+            "subheading": "text",
+            "email_address": "text",
+            "contact_details": "text",
+            "contact_number": "text",
+            "latitude": "text",
+            "longitude": "text"
+        }
+    },
+    "user_kyc": {
+        "builder": true,
+        "no_selection": true,
+        "name": "KYC Instructions",
+        "content": {
+            "verification_content": "textarea",
+            "pending_content": "textarea"
+        }
+    },
+    "empty_message": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Empty Message Image",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "400x300"
+                }
+            }
+        }
+    },
+    "support": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Support Details",
+        "content": {
+            "details": "textarea-nic"
+        }
+    },
+    "banned": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Banned Page",
+        "content": {
+            "images": {
+                "image": {
+                    "size": "360x370"
+                }
+            },
+            "heading": "text"
+        }
+    }
+}
